@@ -10,8 +10,11 @@ The main purpose of this project was to create a phishing website detector using
 ### Dataset
 Abdelhamid, N. (2014). Website Phishing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5B301.
 Instances: 1353
+
 Features: 9
+
 Missing Values: NO
+
 Feature Type: Integer
 
 
